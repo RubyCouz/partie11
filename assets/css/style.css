@@ -1,4 +1,13 @@
  .btn {
     font-weight: bold;
     color: white;
+    width: 50%;
+}
+.error {
+    color: red;
+}
+.red {
+    color: white;
+    font-weight: bold;
+    width: 100%;
 }
